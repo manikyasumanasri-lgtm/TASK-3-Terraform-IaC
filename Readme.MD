@@ -1,4 +1,4 @@
-# Task 3: Infrastructure as Code (IaC) with Terraform
+# Infrastructure as Code (IaC) with Terraform
 
 ## Objective
 
